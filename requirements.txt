@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+seaborn
+pandas
+sympy
+statsmodels
+pingouin
+ipywidgets
+jupyter_contrib_nbextensions
